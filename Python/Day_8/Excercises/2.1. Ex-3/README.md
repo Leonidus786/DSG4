@@ -4,7 +4,7 @@
 # A leap year has 366 days instead of the usual 365 with an extra day in February and it's actually kind of interesting, the reason behind why we need a leap year.
 # And here you'll see a link to a video that actually explains to you the full reasoning behind it and it's really, really fascinating. So take a look if you're interested. -- https://www.youtube.com/watch?v=xX96xng7sAE
 
-# Flow chart --> https://shorturl.at/noM67
+
 # In order to work out whether if a year is a leap year, there is a logic to it and it's expressed like this.
 # So you take a particular year and it is a leap year if it can be divisible by four with no remainder, except if that year is also divisible by 100 with no remainder, and unless the year is also divisible by 400 with no remainder.
 # So there's actually three steps that we need to take, our year through. And it's because these criteria flip whether if a year is leap year or not leap year.
